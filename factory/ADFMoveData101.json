@@ -1,0 +1,9 @@
+{
+	"name": "ADFMoveData101",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "032b7483-50f3-4a9d-92a2-1c95b20a8796",
+		"tenantId": "45202dee-4088-4e8c-8ebd-c01f56740e8f"
+	}
+}
